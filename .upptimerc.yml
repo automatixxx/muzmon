@@ -2,12 +2,13 @@ owner: automatixxx
 repo: muzmon
 
 sites:
-  - name: SSO
-    url: https://sso.muzeumsusch.ch/-/health/live/
   - name: CLOUD
     url: https://cloud.muzeumsusch.ch/status.php
     expectedResponseContains:
       - '"maintenance":false'
+  - name: SSO
+    url: https://sso.muzeumsusch.ch/-/health/live/
+  
       
 status-website:
   cname: monitoring.muzeumsusch.ch
