@@ -1,23 +1,5 @@
 [
   {
-    "name": "SSO",
-    "url": "https://sso.muzeumsusch.ch/-/health/live/",
-    "icon": "https://icons.duckduckgo.com/ip3/sso.muzeumsusch.ch.ico",
-    "slug": "sso",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1062,
-    "timeDay": 1062,
-    "timeWeek": 1062,
-    "timeMonth": 1062,
-    "timeYear": 1062,
-    "dailyMinutesDown": {}
-  },
-  {
     "name": "CLOUD",
     "url": "https://cloud.muzeumsusch.ch/status.php",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.muzeumsusch.ch.ico",
@@ -28,11 +10,29 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 652,
-    "timeDay": 652,
-    "timeWeek": 652,
-    "timeMonth": 652,
-    "timeYear": 652,
+    "time": 672,
+    "timeDay": 672,
+    "timeWeek": 672,
+    "timeMonth": 672,
+    "timeYear": 672,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "SSO",
+    "url": "https://sso.muzeumsusch.ch/-/health/live/",
+    "icon": "https://icons.duckduckgo.com/ip3/sso.muzeumsusch.ch.ico",
+    "slug": "sso",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1009,
+    "timeDay": 1009,
+    "timeWeek": 1009,
+    "timeMonth": 1009,
+    "timeYear": 1009,
     "dailyMinutesDown": {}
   }
 ]
