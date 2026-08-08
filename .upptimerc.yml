@@ -19,4 +19,7 @@ status-website:
     - title: Status
       href: /
   theme: ocean
+
+i18n:
+  footer: The Susch Cloud is powered by [IT ZONE](https://it-zone.org)    
   
