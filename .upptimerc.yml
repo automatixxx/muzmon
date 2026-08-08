@@ -1,24 +1,22 @@
-# Change these first
-owner: automatixxx # Your GitHub organization or username, where this repository lives
-repo: muzmon # The name of this repository
+owner: automatixxx 
+repo: muzmon
 
 sites:
   - name: SSO
     url: https://sso.muzeumsusch.ch/-/health/live/
-
+  - name: CLOUD
+    url: https://cloud.muzeumsusch.ch/status.php
+    expectedResponseContains:
+      - '"maintenance":false'
+      
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: monitoring.muzeumsusch.ch
-  # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Muzeum Susch
   introTitle: Main internet services uptime
-  introMessage: Visit our website for more information: https://muzeumsusch.ch
+  introMessage: Visit our website for more information - https://muzeumsusch.ch
   navbar:
     - title: Status
       href: /
   theme: ocean
-      
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+  
