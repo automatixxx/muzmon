@@ -8,6 +8,8 @@ sites:
       - '"maintenance":false'
   - name: SSO
     url: https://sso.muzeumsusch.ch/-/health/live/
+  - name: Main Website
+    url: https://www.muzeumsusch.ch/en/160/SITEMAP
   
       
 status-website:
