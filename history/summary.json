@@ -40,22 +40,22 @@
     "url": "https://www.muzeumsusch.ch/en/160/SITEMAP",
     "icon": "https://icons.duckduckgo.com/ip3/www.muzeumsusch.ch.ico",
     "slug": "main-website",
-    "status": "down",
-    "uptime": "99.10%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.86%",
-    "uptimeYear": "99.10%",
-    "time": 775,
-    "timeDay": 783,
-    "timeWeek": 812,
-    "timeMonth": 774,
-    "timeYear": 775,
+    "status": "up",
+    "uptime": "98.61%",
+    "uptimeDay": "80.47%",
+    "uptimeWeek": "97.21%",
+    "uptimeMonth": "98.22%",
+    "uptimeYear": "98.61%",
+    "time": 777,
+    "timeDay": 817,
+    "timeWeek": 817,
+    "timeMonth": 777,
+    "timeYear": 777,
     "dailyMinutesDown": {
       "2026-08-29": 198,
       "2026-08-28": 144,
       "2026-09-04": 157,
-      "2026-09-17": 0
+      "2026-09-17": 281
     }
   }
 ]
