@@ -40,7 +40,7 @@
     "url": "https://www.muzeumsusch.ch/en/160/SITEMAP",
     "icon": "https://icons.duckduckgo.com/ip3/www.muzeumsusch.ch.ico",
     "slug": "main-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.10%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -54,7 +54,8 @@
     "dailyMinutesDown": {
       "2026-08-29": 198,
       "2026-08-28": 144,
-      "2026-09-04": 157
+      "2026-09-04": 157,
+      "2026-09-17": 0
     }
   }
 ]
