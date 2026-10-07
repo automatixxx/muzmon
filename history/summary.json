@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 672,
-    "timeDay": 750,
+    "timeDay": 743,
     "timeWeek": 680,
     "timeMonth": 661,
     "timeYear": 672,
@@ -29,7 +29,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 961,
-    "timeDay": 825,
+    "timeDay": 571,
     "timeWeek": 918,
     "timeMonth": 943,
     "timeYear": 961,
@@ -41,13 +41,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.muzeumsusch.ch.ico",
     "slug": "main-website",
     "status": "down",
-    "uptime": "98.65%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.26%",
-    "uptimeMonth": "98.54%",
-    "uptimeYear": "98.65%",
+    "uptime": "98.55%",
+    "uptimeDay": "94.13%",
+    "uptimeWeek": "97.42%",
+    "uptimeMonth": "98.34%",
+    "uptimeYear": "98.55%",
     "time": 767,
-    "timeDay": 811,
+    "timeDay": 0,
     "timeWeek": 829,
     "timeMonth": 762,
     "timeYear": 767,
@@ -60,7 +60,8 @@
       "2026-09-21": 80,
       "2026-09-26": 38,
       "2026-10-02": 116,
-      "2026-10-01": 59
+      "2026-10-01": 59,
+      "2026-10-07": 85
     }
   }
 ]
