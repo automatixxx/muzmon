@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 668,
-    "timeDay": 683,
+    "timeDay": 0,
     "timeWeek": 636,
-    "timeMonth": 643,
+    "timeMonth": 648,
     "timeYear": 668,
     "dailyMinutesDown": {}
   },
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 966,
-    "timeDay": 1333,
+    "timeDay": 0,
     "timeWeek": 1014,
-    "timeMonth": 956,
+    "timeMonth": 971,
     "timeYear": 966,
     "dailyMinutesDown": {}
   },
@@ -40,17 +40,17 @@
     "url": "https://www.muzeumsusch.ch/en/160/SITEMAP",
     "icon": "https://icons.duckduckgo.com/ip3/www.muzeumsusch.ch.ico",
     "slug": "main-website",
-    "status": "down",
-    "uptime": "98.68%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.69%",
-    "uptimeYear": "98.68%",
-    "time": 773,
-    "timeDay": 791,
-    "timeWeek": 788,
-    "timeMonth": 776,
-    "timeYear": 773,
+    "status": "up",
+    "uptime": "98.54%",
+    "uptimeDay": "89.66%",
+    "uptimeWeek": "98.52%",
+    "uptimeMonth": "98.35%",
+    "uptimeYear": "98.54%",
+    "time": 776,
+    "timeDay": 937,
+    "timeWeek": 806,
+    "timeMonth": 785,
+    "timeYear": 776,
     "dailyMinutesDown": {
       "2026-08-29": 198,
       "2026-08-28": 144,
@@ -61,7 +61,9 @@
       "2026-09-26": 38,
       "2026-10-02": 116,
       "2026-10-01": 59,
-      "2026-10-07": 215
+      "2026-10-07": 215,
+      "2026-10-20": 90,
+      "2026-10-19": 59
     }
   }
 ]
