@@ -4,11 +4,11 @@
     "url": "https://cloud.muzeumsusch.ch/status.php",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.muzeumsusch.ch.ico",
     "slug": "cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "98.87%",
-    "uptimeDay": "78.77%",
-    "uptimeWeek": "96.97%",
-    "uptimeMonth": "96.88%",
+    "uptimeDay": "78.43%",
+    "uptimeWeek": "96.92%",
+    "uptimeMonth": "96.87%",
     "uptimeYear": "98.87%",
     "time": 675,
     "timeDay": 837,
@@ -18,7 +18,8 @@
     "dailyMinutesDown": {
       "2026-10-22": 1042,
       "2026-10-21": 20,
-      "2026-10-31": 306
+      "2026-10-31": 306,
+      "2026-11-01": 5
     }
   },
   {
@@ -26,7 +27,7 @@
     "url": "https://sso.muzeumsusch.ch/-/health/live/",
     "icon": "https://icons.duckduckgo.com/ip3/sso.muzeumsusch.ch.ico",
     "slug": "sso",
-    "status": "up",
+    "status": "down",
     "uptime": "99.41%",
     "uptimeDay": "79.11%",
     "uptimeWeek": "97.02%",
